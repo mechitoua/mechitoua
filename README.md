@@ -19,6 +19,3 @@ I’m a junior web developer with a passion for building dynamic and responsive 
 
 I'm always eager to collaborate on exciting projects and learn from the community. Feel free to reach out!
 
----
-
-Feel free to customize this template with your specific details and projects. Let me know if you need any more help!

@@ -12,6 +12,7 @@ I’m **Mechitoua Mohammed Amine**, a junior web developer based in Algeria, pas
     - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
     - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
     - ![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-4CAF50?logo=responsive&logoColor=white&style=flat)
+    - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
   - **Backend Development:** 
     - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
     - ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)

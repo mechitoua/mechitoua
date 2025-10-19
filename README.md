@@ -1,4 +1,4 @@
-# Hello, I'm [Mechitoua Mohammed Amine] 👋
+# Hello, I'm Mechitoua Mohammed Amine 👋
 
 I'm a junior fullstack developer who loves crafting beautiful and functional web experiences. My passion lies in building applications that not only work flawlessly but also delight users with their design and usability.
 
